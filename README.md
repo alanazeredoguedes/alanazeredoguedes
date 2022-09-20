@@ -25,7 +25,7 @@
   
 <h2> 📊 My Github Stats </h2>
 
-[![lfernando17's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanazeredoguedes&show_icons=true&theme=highcontrast)](https://github.com/alanazeredoguedes/github-readme-stats)
+[![alanazeredoguedes GitHub stats](https://github-readme-stats.vercel.app/api?username=alanazeredoguedes&show_icons=true&theme=highcontrast)](https://github.com/alanazeredoguedes/github-readme-stats)
 
 
 <!--
