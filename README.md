@@ -13,10 +13,10 @@
 <h2> 📬 Get in touch  </h2>
 
 <ul>
-<li> Github : https://github.com/lfernando-17 </li>
-  <li> Linkedin : https://www.linkedin.com/in/lfernando17/ </li>
-  <li> Email : <a href="">lfernandoleal17@gmail.com </li></a>
-  <li> StackOverflow : https://pt.stackoverflow.com/users/232898/lfernando-17 </li>
+<li> Github : https://github.com/alanazeredoguedes </li>
+  <li> Linkedin : https://www.linkedin.com/in/alan-azeredo-guedes-786575191 </li>
+  <li> Email : <a href=""> alanguedes00@live.com </li></a>s
+  <li> StackOverflow : https://stackoverflow.com/users/15767320/alan-guedes </li>
 </ul> 
 <h2> 📚 My top programming languanges </h2> 
 
