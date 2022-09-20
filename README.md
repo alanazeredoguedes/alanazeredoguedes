@@ -20,7 +20,7 @@
 </ul> 
 <h2> 📚 My top programming languanges </h2> 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfernando-17&langs_count=8&layout=compact)](https://github.com/lfernando-17/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanazeredoguedes&langs_count=8&layout=compact)](https://github.com/alanazeredoguedes/github-readme-stats)
   
   
 <h2> 📊 My Github Stats </h2>
