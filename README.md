@@ -25,7 +25,7 @@
   
 <h2> 📊 My Github Stats </h2>
 
-[![alanazeredoguedes GitHub stats](https://github-readme-stats.vercel.app/api?username=alanazeredoguedes&show_icons=true)](https://github.com/alanazeredoguedes/github-readme-stats)
+[![alanazeredoguedes GitHub stats](https://github-readme-stats.vercel.app/api?username=alanazeredoguedes&show_icons=true&themes=default)](https://github.com/alanazeredoguedes/github-readme-stats)
 
 
 <!--
