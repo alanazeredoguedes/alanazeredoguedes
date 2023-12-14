@@ -15,7 +15,7 @@
 <ul>
 <li> Github : https://github.com/alanazeredoguedes </li>
   <li> Linkedin : https://www.linkedin.com/in/alan-azeredo-guedes-786575191 </li>
-  <li> Email : <a href=""> alanguedes00@live.com </li></a>
+  <li> Email : <a href=""> </li></a>
   <li> StackOverflow : https://stackoverflow.com/users/15767320/alan-guedes </li>
 </ul> 
 <h2> 📚 My top programming languanges </h2> 
